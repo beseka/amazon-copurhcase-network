@@ -1,0 +1,41 @@
+
+╔══════════════════════════════════════════════════════════════════
+║           AMAZON CO-PURCHASE NETWORK — PROJECT SUMMARY
+╠══════════════════════════════════════════════════════════════════
+║
+║  DATASET
+║    Total products parsed:         548,552
+║    Products analyzed:             519,781
+║    Unique main categories:             43
+║
+║  PRODUCT-LEVEL NETWORK
+║    Nodes:                         519,781
+║    Edges:                         964,507
+║    Density:                        0.00000714
+║    Connected components:          165,781
+║    Largest component:             327,964 products
+║
+║  CATEGORY-LEVEL NETWORK
+║    Nodes:                              42
+║    Edges:                             675
+║    Avg clustering coefficient:         0.0012
+║
+║  HYPOTHESIS 1 — Same-Category Clustering
+║    Same-category edges:           688,204  (71.4%)
+║    Cross-category edges:          276,303  (28.6%)
+║    Result: SUPPORTED
+║
+║  HYPOTHESIS 2 — Bridge Categories
+║    Top bridge categories: Music, Romance, Children's Books, VHS, Arts & Photography
+║    Result: SUPPORTED — clear bridge nodes with high betweenness
+║
+║  DEGREE DISTRIBUTION
+║    Power law exponent (γ):          2.851
+║    R² of fit:                          0.9327
+║
+║  TOP CROSS-CATEGORY PAIRS
+║    1. DVD ↔ VHS
+║    2. Amazon.com Stores ↔ Music
+║    3. Health, Mind & Body ↔ Religion & Spirituality
+║
+╚══════════════════════════════════════════════════════════════════

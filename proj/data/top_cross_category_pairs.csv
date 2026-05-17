@@ -1,0 +1,21 @@
+cat1,cat2,weight,pair
+DVD,VHS,31489,DVD ↔ VHS
+Amazon.com Stores,Music,10081,Amazon.com Stores ↔ Music
+"Health, Mind & Body",Religion & Spirituality,6587,"Health, Mind & Body ↔ Religion & Spirituality"
+History,Nonfiction,6461,History ↔ Nonfiction
+Nonfiction,Religion & Spirituality,5367,Nonfiction ↔ Religion & Spirituality
+"Health, Mind & Body",Nonfiction,5208,"Health, Mind & Body ↔ Nonfiction"
+Biographies & Memoirs,Literature & Fiction,5203,Biographies & Memoirs ↔ Literature & Fiction
+Business & Investing,Nonfiction,4538,Business & Investing ↔ Nonfiction
+Literature & Fiction,Nonfiction,4411,Literature & Fiction ↔ Nonfiction
+Biographies & Memoirs,History,4133,Biographies & Memoirs ↔ History
+Nonfiction,Reference,3631,Nonfiction ↔ Reference
+Biographies & Memoirs,Nonfiction,3543,Biographies & Memoirs ↔ Nonfiction
+Amazon.com Stores,Business & Investing,3296,Amazon.com Stores ↔ Business & Investing
+Business & Investing,"Health, Mind & Body",3191,"Business & Investing ↔ Health, Mind & Body"
+Biographies & Memoirs,Religion & Spirituality,2894,Biographies & Memoirs ↔ Religion & Spirituality
+Children's Books,Teens,2805,Children's Books ↔ Teens
+"Health, Mind & Body",Medicine,2803,"Health, Mind & Body ↔ Medicine"
+DVD,Music,2773,DVD ↔ Music
+Literature & Fiction,Mystery & Thrillers,2716,Literature & Fiction ↔ Mystery & Thrillers
+History,Literature & Fiction,2671,History ↔ Literature & Fiction

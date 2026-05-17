@@ -1,0 +1,2070 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="Business &amp; Investing"/>
+<node id="Computers &amp; Internet"/>
+<node id="Children's Books"/>
+<node id="Arts &amp; Photography"/>
+<node id="Music"/>
+<node id="VHS"/>
+<node id="Nonfiction"/>
+<node id="Home &amp; Garden"/>
+<node id="Outdoors &amp; Nature"/>
+<node id="Sports"/>
+<node id="History"/>
+<node id="DVD"/>
+<node id="Literature &amp; Fiction"/>
+<node id="Romance"/>
+<node id="Formats"/>
+<node id="Science Fiction &amp; Fantasy"/>
+<node id="Biographies &amp; Memoirs"/>
+<node id="Reference"/>
+<node id="Health, Mind &amp; Body"/>
+<node id="Entertainment"/>
+<node id="Parenting &amp; Families"/>
+<node id="Specialty Stores"/>
+<node id="Religion &amp; Spirituality"/>
+<node id="Amazon.com Stores"/>
+<node id="Science"/>
+<node id="Cooking, Food &amp; Wine"/>
+<node id="Professional &amp; Technical"/>
+<node id="Comics &amp; Graphic Novels"/>
+<node id="Teens"/>
+<node id="Law"/>
+<node id="Travel"/>
+<node id="Engineering"/>
+<node id="Medicine"/>
+<node id="Mystery &amp; Thrillers"/>
+<node id="Horror"/>
+<node id="Gay &amp; Lesbian"/>
+<node id="By Publisher"/>
+<node id="Our Favorites"/>
+<node id="New Categories"/>
+<node id="Categories"/>
+<node id="Sportsrus.com"/>
+<node id="Age Ranges"/>
+<edge source="Business &amp; Investing" target="Business &amp; Investing">
+  <data key="d0">29537</data>
+</edge>
+<edge source="Business &amp; Investing" target="Home &amp; Garden">
+  <data key="d0">518</data>
+</edge>
+<edge source="Business &amp; Investing" target="Nonfiction">
+  <data key="d0">4538</data>
+</edge>
+<edge source="Business &amp; Investing" target="Biographies &amp; Memoirs">
+  <data key="d0">578</data>
+</edge>
+<edge source="Business &amp; Investing" target="Science">
+  <data key="d0">828</data>
+</edge>
+<edge source="Business &amp; Investing" target="Health, Mind &amp; Body">
+  <data key="d0">3191</data>
+</edge>
+<edge source="Business &amp; Investing" target="Amazon.com Stores">
+  <data key="d0">3296</data>
+</edge>
+<edge source="Business &amp; Investing" target="Formats">
+  <data key="d0">670</data>
+</edge>
+<edge source="Business &amp; Investing" target="Specialty Stores">
+  <data key="d0">1109</data>
+</edge>
+<edge source="Business &amp; Investing" target="Entertainment">
+  <data key="d0">299</data>
+</edge>
+<edge source="Business &amp; Investing" target="Professional &amp; Technical">
+  <data key="d0">415</data>
+</edge>
+<edge source="Business &amp; Investing" target="History">
+  <data key="d0">757</data>
+</edge>
+<edge source="Business &amp; Investing" target="Parenting &amp; Families">
+  <data key="d0">134</data>
+</edge>
+<edge source="Business &amp; Investing" target="Computers &amp; Internet">
+  <data key="d0">864</data>
+</edge>
+<edge source="Business &amp; Investing" target="Engineering">
+  <data key="d0">495</data>
+</edge>
+<edge source="Business &amp; Investing" target="Law">
+  <data key="d0">652</data>
+</edge>
+<edge source="Business &amp; Investing" target="Literature &amp; Fiction">
+  <data key="d0">273</data>
+</edge>
+<edge source="Business &amp; Investing" target="Religion &amp; Spirituality">
+  <data key="d0">871</data>
+</edge>
+<edge source="Business &amp; Investing" target="Reference">
+  <data key="d0">1412</data>
+</edge>
+<edge source="Business &amp; Investing" target="Medicine">
+  <data key="d0">306</data>
+</edge>
+<edge source="Business &amp; Investing" target="Arts &amp; Photography">
+  <data key="d0">432</data>
+</edge>
+<edge source="Business &amp; Investing" target="Travel">
+  <data key="d0">74</data>
+</edge>
+<edge source="Business &amp; Investing" target="Cooking, Food &amp; Wine">
+  <data key="d0">223</data>
+</edge>
+<edge source="Business &amp; Investing" target="Sports">
+  <data key="d0">208</data>
+</edge>
+<edge source="Business &amp; Investing" target="Outdoors &amp; Nature">
+  <data key="d0">99</data>
+</edge>
+<edge source="Business &amp; Investing" target="DVD">
+  <data key="d0">21</data>
+</edge>
+<edge source="Business &amp; Investing" target="VHS">
+  <data key="d0">39</data>
+</edge>
+<edge source="Business &amp; Investing" target="Mystery &amp; Thrillers">
+  <data key="d0">35</data>
+</edge>
+<edge source="Business &amp; Investing" target="Teens">
+  <data key="d0">8</data>
+</edge>
+<edge source="Business &amp; Investing" target="Children's Books">
+  <data key="d0">125</data>
+</edge>
+<edge source="Business &amp; Investing" target="Gay &amp; Lesbian">
+  <data key="d0">11</data>
+</edge>
+<edge source="Business &amp; Investing" target="Romance">
+  <data key="d0">1</data>
+</edge>
+<edge source="Business &amp; Investing" target="Music">
+  <data key="d0">8</data>
+</edge>
+<edge source="Business &amp; Investing" target="Science Fiction &amp; Fantasy">
+  <data key="d0">6</data>
+</edge>
+<edge source="Business &amp; Investing" target="Comics &amp; Graphic Novels">
+  <data key="d0">4</data>
+</edge>
+<edge source="Business &amp; Investing" target="By Publisher">
+  <data key="d0">1</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Computers &amp; Internet">
+  <data key="d0">22535</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Religion &amp; Spirituality">
+  <data key="d0">33</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Nonfiction">
+  <data key="d0">535</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Arts &amp; Photography">
+  <data key="d0">407</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Science">
+  <data key="d0">820</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Literature &amp; Fiction">
+  <data key="d0">53</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Engineering">
+  <data key="d0">1081</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Entertainment">
+  <data key="d0">322</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Reference">
+  <data key="d0">298</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Specialty Stores">
+  <data key="d0">685</data>
+</edge>
+<edge source="Computers &amp; Internet" target="By Publisher">
+  <data key="d0">430</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Health, Mind &amp; Body">
+  <data key="d0">144</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Medicine">
+  <data key="d0">60</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Professional &amp; Technical">
+  <data key="d0">150</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Amazon.com Stores">
+  <data key="d0">661</data>
+</edge>
+<edge source="Computers &amp; Internet" target="History">
+  <data key="d0">34</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Children's Books">
+  <data key="d0">45</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Law">
+  <data key="d0">50</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Home &amp; Garden">
+  <data key="d0">37</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Comics &amp; Graphic Novels">
+  <data key="d0">9</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Biographies &amp; Memoirs">
+  <data key="d0">21</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Science Fiction &amp; Fantasy">
+  <data key="d0">12</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Formats">
+  <data key="d0">6</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Cooking, Food &amp; Wine">
+  <data key="d0">13</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Sports">
+  <data key="d0">3</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Mystery &amp; Thrillers">
+  <data key="d0">6</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Music">
+  <data key="d0">2</data>
+</edge>
+<edge source="Computers &amp; Internet" target="DVD">
+  <data key="d0">3</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Teens">
+  <data key="d0">2</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Travel">
+  <data key="d0">4</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Parenting &amp; Families">
+  <data key="d0">3</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Horror">
+  <data key="d0">1</data>
+</edge>
+<edge source="Computers &amp; Internet" target="Outdoors &amp; Nature">
+  <data key="d0">1</data>
+</edge>
+<edge source="Computers &amp; Internet" target="VHS">
+  <data key="d0">1</data>
+</edge>
+<edge source="Children's Books" target="Children's Books">
+  <data key="d0">82393</data>
+</edge>
+<edge source="Children's Books" target="Nonfiction">
+  <data key="d0">2628</data>
+</edge>
+<edge source="Children's Books" target="Home &amp; Garden">
+  <data key="d0">899</data>
+</edge>
+<edge source="Children's Books" target="Arts &amp; Photography">
+  <data key="d0">967</data>
+</edge>
+<edge source="Children's Books" target="Specialty Stores">
+  <data key="d0">2510</data>
+</edge>
+<edge source="Children's Books" target="Parenting &amp; Families">
+  <data key="d0">980</data>
+</edge>
+<edge source="Children's Books" target="Religion &amp; Spirituality">
+  <data key="d0">1429</data>
+</edge>
+<edge source="Children's Books" target="Literature &amp; Fiction">
+  <data key="d0">2384</data>
+</edge>
+<edge source="Children's Books" target="Teens">
+  <data key="d0">2805</data>
+</edge>
+<edge source="Children's Books" target="Science Fiction &amp; Fantasy">
+  <data key="d0">702</data>
+</edge>
+<edge source="Children's Books" target="VHS">
+  <data key="d0">478</data>
+</edge>
+<edge source="Children's Books" target="Biographies &amp; Memoirs">
+  <data key="d0">1081</data>
+</edge>
+<edge source="Children's Books" target="Formats">
+  <data key="d0">2646</data>
+</edge>
+<edge source="Children's Books" target="Entertainment">
+  <data key="d0">913</data>
+</edge>
+<edge source="Children's Books" target="History">
+  <data key="d0">633</data>
+</edge>
+<edge source="Children's Books" target="Reference">
+  <data key="d0">892</data>
+</edge>
+<edge source="Children's Books" target="Science">
+  <data key="d0">716</data>
+</edge>
+<edge source="Children's Books" target="DVD">
+  <data key="d0">334</data>
+</edge>
+<edge source="Children's Books" target="Cooking, Food &amp; Wine">
+  <data key="d0">200</data>
+</edge>
+<edge source="Children's Books" target="Health, Mind &amp; Body">
+  <data key="d0">824</data>
+</edge>
+<edge source="Children's Books" target="Gay &amp; Lesbian">
+  <data key="d0">15</data>
+</edge>
+<edge source="Children's Books" target="Romance">
+  <data key="d0">22</data>
+</edge>
+<edge source="Children's Books" target="Travel">
+  <data key="d0">113</data>
+</edge>
+<edge source="Children's Books" target="Sports">
+  <data key="d0">255</data>
+</edge>
+<edge source="Children's Books" target="Horror">
+  <data key="d0">169</data>
+</edge>
+<edge source="Children's Books" target="Outdoors &amp; Nature">
+  <data key="d0">77</data>
+</edge>
+<edge source="Children's Books" target="Mystery &amp; Thrillers">
+  <data key="d0">124</data>
+</edge>
+<edge source="Children's Books" target="Comics &amp; Graphic Novels">
+  <data key="d0">430</data>
+</edge>
+<edge source="Children's Books" target="Professional &amp; Technical">
+  <data key="d0">132</data>
+</edge>
+<edge source="Children's Books" target="Amazon.com Stores">
+  <data key="d0">29</data>
+</edge>
+<edge source="Children's Books" target="Our Favorites">
+  <data key="d0">22</data>
+</edge>
+<edge source="Children's Books" target="Music">
+  <data key="d0">185</data>
+</edge>
+<edge source="Children's Books" target="Medicine">
+  <data key="d0">31</data>
+</edge>
+<edge source="Children's Books" target="Engineering">
+  <data key="d0">27</data>
+</edge>
+<edge source="Children's Books" target="Law">
+  <data key="d0">11</data>
+</edge>
+<edge source="Children's Books" target="New Categories">
+  <data key="d0">1</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Arts &amp; Photography">
+  <data key="d0">14913</data>
+</edge>
+<edge source="Arts &amp; Photography" target="History">
+  <data key="d0">830</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Entertainment">
+  <data key="d0">822</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Nonfiction">
+  <data key="d0">1283</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Home &amp; Garden">
+  <data key="d0">1864</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Reference">
+  <data key="d0">518</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Biographies &amp; Memoirs">
+  <data key="d0">839</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Literature &amp; Fiction">
+  <data key="d0">1389</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Sports">
+  <data key="d0">96</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Religion &amp; Spirituality">
+  <data key="d0">417</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Outdoors &amp; Nature">
+  <data key="d0">98</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Science Fiction &amp; Fantasy">
+  <data key="d0">81</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Travel">
+  <data key="d0">409</data>
+</edge>
+<edge source="Arts &amp; Photography" target="VHS">
+  <data key="d0">58</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Specialty Stores">
+  <data key="d0">378</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Health, Mind &amp; Body">
+  <data key="d0">446</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Professional &amp; Technical">
+  <data key="d0">942</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Comics &amp; Graphic Novels">
+  <data key="d0">180</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Amazon.com Stores">
+  <data key="d0">144</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Formats">
+  <data key="d0">109</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Science">
+  <data key="d0">361</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Engineering">
+  <data key="d0">39</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Cooking, Food &amp; Wine">
+  <data key="d0">65</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Music">
+  <data key="d0">52</data>
+</edge>
+<edge source="Arts &amp; Photography" target="DVD">
+  <data key="d0">131</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Parenting &amp; Families">
+  <data key="d0">42</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Categories">
+  <data key="d0">5</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Mystery &amp; Thrillers">
+  <data key="d0">12</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Gay &amp; Lesbian">
+  <data key="d0">28</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Medicine">
+  <data key="d0">15</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Horror">
+  <data key="d0">7</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Teens">
+  <data key="d0">9</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Our Favorites">
+  <data key="d0">9</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Law">
+  <data key="d0">15</data>
+</edge>
+<edge source="Arts &amp; Photography" target="New Categories">
+  <data key="d0">1</data>
+</edge>
+<edge source="Arts &amp; Photography" target="Romance">
+  <data key="d0">1</data>
+</edge>
+<edge source="Music" target="Music">
+  <data key="d0">132299</data>
+</edge>
+<edge source="Music" target="DVD">
+  <data key="d0">2773</data>
+</edge>
+<edge source="Music" target="Amazon.com Stores">
+  <data key="d0">10081</data>
+</edge>
+<edge source="Music" target="VHS">
+  <data key="d0">857</data>
+</edge>
+<edge source="Music" target="Entertainment">
+  <data key="d0">454</data>
+</edge>
+<edge source="Music" target="Formats">
+  <data key="d0">104</data>
+</edge>
+<edge source="Music" target="Religion &amp; Spirituality">
+  <data key="d0">96</data>
+</edge>
+<edge source="Music" target="Biographies &amp; Memoirs">
+  <data key="d0">258</data>
+</edge>
+<edge source="Music" target="Specialty Stores">
+  <data key="d0">60</data>
+</edge>
+<edge source="Music" target="Literature &amp; Fiction">
+  <data key="d0">187</data>
+</edge>
+<edge source="Music" target="Nonfiction">
+  <data key="d0">33</data>
+</edge>
+<edge source="Music" target="Science Fiction &amp; Fantasy">
+  <data key="d0">12</data>
+</edge>
+<edge source="Music" target="History">
+  <data key="d0">7</data>
+</edge>
+<edge source="Music" target="Categories">
+  <data key="d0">6</data>
+</edge>
+<edge source="Music" target="Parenting &amp; Families">
+  <data key="d0">15</data>
+</edge>
+<edge source="Music" target="Reference">
+  <data key="d0">12</data>
+</edge>
+<edge source="Music" target="Mystery &amp; Thrillers">
+  <data key="d0">6</data>
+</edge>
+<edge source="Music" target="Health, Mind &amp; Body">
+  <data key="d0">61</data>
+</edge>
+<edge source="Music" target="Cooking, Food &amp; Wine">
+  <data key="d0">15</data>
+</edge>
+<edge source="Music" target="Sports">
+  <data key="d0">4</data>
+</edge>
+<edge source="Music" target="Comics &amp; Graphic Novels">
+  <data key="d0">9</data>
+</edge>
+<edge source="Music" target="Travel">
+  <data key="d0">5</data>
+</edge>
+<edge source="Music" target="Home &amp; Garden">
+  <data key="d0">2</data>
+</edge>
+<edge source="Music" target="Outdoors &amp; Nature">
+  <data key="d0">1</data>
+</edge>
+<edge source="Music" target="Medicine">
+  <data key="d0">1</data>
+</edge>
+<edge source="Music" target="Horror">
+  <data key="d0">1</data>
+</edge>
+<edge source="Music" target="Teens">
+  <data key="d0">1</data>
+</edge>
+<edge source="VHS" target="VHS">
+  <data key="d0">16582</data>
+</edge>
+<edge source="VHS" target="DVD">
+  <data key="d0">31489</data>
+</edge>
+<edge source="VHS" target="History">
+  <data key="d0">82</data>
+</edge>
+<edge source="VHS" target="Home &amp; Garden">
+  <data key="d0">65</data>
+</edge>
+<edge source="VHS" target="Mystery &amp; Thrillers">
+  <data key="d0">17</data>
+</edge>
+<edge source="VHS" target="Biographies &amp; Memoirs">
+  <data key="d0">256</data>
+</edge>
+<edge source="VHS" target="Amazon.com Stores">
+  <data key="d0">62</data>
+</edge>
+<edge source="VHS" target="Literature &amp; Fiction">
+  <data key="d0">259</data>
+</edge>
+<edge source="VHS" target="Religion &amp; Spirituality">
+  <data key="d0">110</data>
+</edge>
+<edge source="VHS" target="Health, Mind &amp; Body">
+  <data key="d0">211</data>
+</edge>
+<edge source="VHS" target="Sports">
+  <data key="d0">149</data>
+</edge>
+<edge source="VHS" target="Science">
+  <data key="d0">18</data>
+</edge>
+<edge source="VHS" target="Science Fiction &amp; Fantasy">
+  <data key="d0">25</data>
+</edge>
+<edge source="VHS" target="Nonfiction">
+  <data key="d0">98</data>
+</edge>
+<edge source="VHS" target="Entertainment">
+  <data key="d0">110</data>
+</edge>
+<edge source="VHS" target="Formats">
+  <data key="d0">50</data>
+</edge>
+<edge source="VHS" target="Travel">
+  <data key="d0">12</data>
+</edge>
+<edge source="VHS" target="Outdoors &amp; Nature">
+  <data key="d0">15</data>
+</edge>
+<edge source="VHS" target="Parenting &amp; Families">
+  <data key="d0">37</data>
+</edge>
+<edge source="VHS" target="Reference">
+  <data key="d0">26</data>
+</edge>
+<edge source="VHS" target="Specialty Stores">
+  <data key="d0">41</data>
+</edge>
+<edge source="VHS" target="Medicine">
+  <data key="d0">8</data>
+</edge>
+<edge source="VHS" target="Comics &amp; Graphic Novels">
+  <data key="d0">15</data>
+</edge>
+<edge source="VHS" target="Professional &amp; Technical">
+  <data key="d0">6</data>
+</edge>
+<edge source="VHS" target="Teens">
+  <data key="d0">6</data>
+</edge>
+<edge source="VHS" target="Horror">
+  <data key="d0">11</data>
+</edge>
+<edge source="VHS" target="Cooking, Food &amp; Wine">
+  <data key="d0">8</data>
+</edge>
+<edge source="VHS" target="Law">
+  <data key="d0">6</data>
+</edge>
+<edge source="VHS" target="Romance">
+  <data key="d0">1</data>
+</edge>
+<edge source="VHS" target="Gay &amp; Lesbian">
+  <data key="d0">1</data>
+</edge>
+<edge source="VHS" target="Sportsrus.com">
+  <data key="d0">1</data>
+</edge>
+<edge source="VHS" target="Engineering">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nonfiction" target="History">
+  <data key="d0">6461</data>
+</edge>
+<edge source="Nonfiction" target="Health, Mind &amp; Body">
+  <data key="d0">5208</data>
+</edge>
+<edge source="Nonfiction" target="Nonfiction">
+  <data key="d0">35809</data>
+</edge>
+<edge source="Nonfiction" target="Reference">
+  <data key="d0">3631</data>
+</edge>
+<edge source="Nonfiction" target="Biographies &amp; Memoirs">
+  <data key="d0">3543</data>
+</edge>
+<edge source="Nonfiction" target="Cooking, Food &amp; Wine">
+  <data key="d0">160</data>
+</edge>
+<edge source="Nonfiction" target="Professional &amp; Technical">
+  <data key="d0">1019</data>
+</edge>
+<edge source="Nonfiction" target="Religion &amp; Spirituality">
+  <data key="d0">5367</data>
+</edge>
+<edge source="Nonfiction" target="Formats">
+  <data key="d0">441</data>
+</edge>
+<edge source="Nonfiction" target="Literature &amp; Fiction">
+  <data key="d0">4411</data>
+</edge>
+<edge source="Nonfiction" target="Entertainment">
+  <data key="d0">971</data>
+</edge>
+<edge source="Nonfiction" target="Parenting &amp; Families">
+  <data key="d0">1248</data>
+</edge>
+<edge source="Nonfiction" target="Outdoors &amp; Nature">
+  <data key="d0">218</data>
+</edge>
+<edge source="Nonfiction" target="Specialty Stores">
+  <data key="d0">1098</data>
+</edge>
+<edge source="Nonfiction" target="Teens">
+  <data key="d0">90</data>
+</edge>
+<edge source="Nonfiction" target="Law">
+  <data key="d0">1132</data>
+</edge>
+<edge source="Nonfiction" target="Sports">
+  <data key="d0">795</data>
+</edge>
+<edge source="Nonfiction" target="Home &amp; Garden">
+  <data key="d0">638</data>
+</edge>
+<edge source="Nonfiction" target="Gay &amp; Lesbian">
+  <data key="d0">329</data>
+</edge>
+<edge source="Nonfiction" target="Travel">
+  <data key="d0">433</data>
+</edge>
+<edge source="Nonfiction" target="Science">
+  <data key="d0">2278</data>
+</edge>
+<edge source="Nonfiction" target="Amazon.com Stores">
+  <data key="d0">260</data>
+</edge>
+<edge source="Nonfiction" target="Medicine">
+  <data key="d0">537</data>
+</edge>
+<edge source="Nonfiction" target="Engineering">
+  <data key="d0">276</data>
+</edge>
+<edge source="Nonfiction" target="DVD">
+  <data key="d0">146</data>
+</edge>
+<edge source="Nonfiction" target="Mystery &amp; Thrillers">
+  <data key="d0">142</data>
+</edge>
+<edge source="Nonfiction" target="Science Fiction &amp; Fantasy">
+  <data key="d0">56</data>
+</edge>
+<edge source="Nonfiction" target="By Publisher">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nonfiction" target="Comics &amp; Graphic Novels">
+  <data key="d0">65</data>
+</edge>
+<edge source="Nonfiction" target="Romance">
+  <data key="d0">13</data>
+</edge>
+<edge source="Nonfiction" target="Horror">
+  <data key="d0">18</data>
+</edge>
+<edge source="Nonfiction" target="Our Favorites">
+  <data key="d0">1</data>
+</edge>
+<edge source="Home &amp; Garden" target="Outdoors &amp; Nature">
+  <data key="d0">410</data>
+</edge>
+<edge source="Home &amp; Garden" target="Home &amp; Garden">
+  <data key="d0">22710</data>
+</edge>
+<edge source="Home &amp; Garden" target="Cooking, Food &amp; Wine">
+  <data key="d0">542</data>
+</edge>
+<edge source="Home &amp; Garden" target="Professional &amp; Technical">
+  <data key="d0">1642</data>
+</edge>
+<edge source="Home &amp; Garden" target="Specialty Stores">
+  <data key="d0">447</data>
+</edge>
+<edge source="Home &amp; Garden" target="Entertainment">
+  <data key="d0">248</data>
+</edge>
+<edge source="Home &amp; Garden" target="Reference">
+  <data key="d0">398</data>
+</edge>
+<edge source="Home &amp; Garden" target="Health, Mind &amp; Body">
+  <data key="d0">748</data>
+</edge>
+<edge source="Home &amp; Garden" target="History">
+  <data key="d0">341</data>
+</edge>
+<edge source="Home &amp; Garden" target="Science">
+  <data key="d0">1014</data>
+</edge>
+<edge source="Home &amp; Garden" target="Medicine">
+  <data key="d0">193</data>
+</edge>
+<edge source="Home &amp; Garden" target="Biographies &amp; Memoirs">
+  <data key="d0">202</data>
+</edge>
+<edge source="Home &amp; Garden" target="Sports">
+  <data key="d0">458</data>
+</edge>
+<edge source="Home &amp; Garden" target="Travel">
+  <data key="d0">124</data>
+</edge>
+<edge source="Home &amp; Garden" target="Literature &amp; Fiction">
+  <data key="d0">188</data>
+</edge>
+<edge source="Home &amp; Garden" target="Religion &amp; Spirituality">
+  <data key="d0">283</data>
+</edge>
+<edge source="Home &amp; Garden" target="Engineering">
+  <data key="d0">426</data>
+</edge>
+<edge source="Home &amp; Garden" target="Amazon.com Stores">
+  <data key="d0">36</data>
+</edge>
+<edge source="Home &amp; Garden" target="Teens">
+  <data key="d0">3</data>
+</edge>
+<edge source="Home &amp; Garden" target="Parenting &amp; Families">
+  <data key="d0">54</data>
+</edge>
+<edge source="Home &amp; Garden" target="Mystery &amp; Thrillers">
+  <data key="d0">15</data>
+</edge>
+<edge source="Home &amp; Garden" target="By Publisher">
+  <data key="d0">8</data>
+</edge>
+<edge source="Home &amp; Garden" target="Formats">
+  <data key="d0">51</data>
+</edge>
+<edge source="Home &amp; Garden" target="DVD">
+  <data key="d0">19</data>
+</edge>
+<edge source="Home &amp; Garden" target="Our Favorites">
+  <data key="d0">24</data>
+</edge>
+<edge source="Home &amp; Garden" target="Comics &amp; Graphic Novels">
+  <data key="d0">15</data>
+</edge>
+<edge source="Home &amp; Garden" target="Law">
+  <data key="d0">23</data>
+</edge>
+<edge source="Home &amp; Garden" target="Science Fiction &amp; Fantasy">
+  <data key="d0">5</data>
+</edge>
+<edge source="Home &amp; Garden" target="Horror">
+  <data key="d0">1</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="Outdoors &amp; Nature">
+  <data key="d0">2364</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="Sports">
+  <data key="d0">250</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="Cooking, Food &amp; Wine">
+  <data key="d0">57</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="Travel">
+  <data key="d0">311</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="Engineering">
+  <data key="d0">30</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="History">
+  <data key="d0">166</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="Science">
+  <data key="d0">1292</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="Amazon.com Stores">
+  <data key="d0">246</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="Professional &amp; Technical">
+  <data key="d0">64</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="Health, Mind &amp; Body">
+  <data key="d0">73</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="Biographies &amp; Memoirs">
+  <data key="d0">128</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="Reference">
+  <data key="d0">50</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="Horror">
+  <data key="d0">4</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="Specialty Stores">
+  <data key="d0">57</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="Literature &amp; Fiction">
+  <data key="d0">126</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="Law">
+  <data key="d0">18</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="Entertainment">
+  <data key="d0">28</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="DVD">
+  <data key="d0">19</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="Religion &amp; Spirituality">
+  <data key="d0">59</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="Formats">
+  <data key="d0">24</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="Parenting &amp; Families">
+  <data key="d0">13</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="Mystery &amp; Thrillers">
+  <data key="d0">32</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="Medicine">
+  <data key="d0">17</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="Our Favorites">
+  <data key="d0">2</data>
+</edge>
+<edge source="Outdoors &amp; Nature" target="Teens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sports" target="Sports">
+  <data key="d0">7894</data>
+</edge>
+<edge source="Sports" target="Engineering">
+  <data key="d0">68</data>
+</edge>
+<edge source="Sports" target="Travel">
+  <data key="d0">692</data>
+</edge>
+<edge source="Sports" target="Biographies &amp; Memoirs">
+  <data key="d0">495</data>
+</edge>
+<edge source="Sports" target="Health, Mind &amp; Body">
+  <data key="d0">879</data>
+</edge>
+<edge source="Sports" target="Science">
+  <data key="d0">89</data>
+</edge>
+<edge source="Sports" target="History">
+  <data key="d0">243</data>
+</edge>
+<edge source="Sports" target="Specialty Stores">
+  <data key="d0">175</data>
+</edge>
+<edge source="Sports" target="Formats">
+  <data key="d0">168</data>
+</edge>
+<edge source="Sports" target="Amazon.com Stores">
+  <data key="d0">138</data>
+</edge>
+<edge source="Sports" target="Medicine">
+  <data key="d0">72</data>
+</edge>
+<edge source="Sports" target="Entertainment">
+  <data key="d0">204</data>
+</edge>
+<edge source="Sports" target="Cooking, Food &amp; Wine">
+  <data key="d0">50</data>
+</edge>
+<edge source="Sports" target="Parenting &amp; Families">
+  <data key="d0">42</data>
+</edge>
+<edge source="Sports" target="Mystery &amp; Thrillers">
+  <data key="d0">16</data>
+</edge>
+<edge source="Sports" target="Religion &amp; Spirituality">
+  <data key="d0">118</data>
+</edge>
+<edge source="Sports" target="Comics &amp; Graphic Novels">
+  <data key="d0">9</data>
+</edge>
+<edge source="Sports" target="Literature &amp; Fiction">
+  <data key="d0">208</data>
+</edge>
+<edge source="Sports" target="Law">
+  <data key="d0">11</data>
+</edge>
+<edge source="Sports" target="DVD">
+  <data key="d0">147</data>
+</edge>
+<edge source="Sports" target="Reference">
+  <data key="d0">97</data>
+</edge>
+<edge source="Sports" target="Teens">
+  <data key="d0">12</data>
+</edge>
+<edge source="Sports" target="Professional &amp; Technical">
+  <data key="d0">23</data>
+</edge>
+<edge source="Sports" target="Gay &amp; Lesbian">
+  <data key="d0">7</data>
+</edge>
+<edge source="Sports" target="Science Fiction &amp; Fantasy">
+  <data key="d0">2</data>
+</edge>
+<edge source="Sports" target="Horror">
+  <data key="d0">1</data>
+</edge>
+<edge source="History" target="Biographies &amp; Memoirs">
+  <data key="d0">4133</data>
+</edge>
+<edge source="History" target="History">
+  <data key="d0">14567</data>
+</edge>
+<edge source="History" target="Reference">
+  <data key="d0">877</data>
+</edge>
+<edge source="History" target="Literature &amp; Fiction">
+  <data key="d0">2671</data>
+</edge>
+<edge source="History" target="Travel">
+  <data key="d0">858</data>
+</edge>
+<edge source="History" target="DVD">
+  <data key="d0">135</data>
+</edge>
+<edge source="History" target="Formats">
+  <data key="d0">368</data>
+</edge>
+<edge source="History" target="Specialty Stores">
+  <data key="d0">549</data>
+</edge>
+<edge source="History" target="Cooking, Food &amp; Wine">
+  <data key="d0">150</data>
+</edge>
+<edge source="History" target="Health, Mind &amp; Body">
+  <data key="d0">286</data>
+</edge>
+<edge source="History" target="Science Fiction &amp; Fantasy">
+  <data key="d0">31</data>
+</edge>
+<edge source="History" target="Religion &amp; Spirituality">
+  <data key="d0">1642</data>
+</edge>
+<edge source="History" target="Science">
+  <data key="d0">626</data>
+</edge>
+<edge source="History" target="Mystery &amp; Thrillers">
+  <data key="d0">111</data>
+</edge>
+<edge source="History" target="Entertainment">
+  <data key="d0">230</data>
+</edge>
+<edge source="History" target="Engineering">
+  <data key="d0">34</data>
+</edge>
+<edge source="History" target="Professional &amp; Technical">
+  <data key="d0">282</data>
+</edge>
+<edge source="History" target="Amazon.com Stores">
+  <data key="d0">239</data>
+</edge>
+<edge source="History" target="Law">
+  <data key="d0">190</data>
+</edge>
+<edge source="History" target="Medicine">
+  <data key="d0">76</data>
+</edge>
+<edge source="History" target="Romance">
+  <data key="d0">5</data>
+</edge>
+<edge source="History" target="Teens">
+  <data key="d0">24</data>
+</edge>
+<edge source="History" target="Horror">
+  <data key="d0">14</data>
+</edge>
+<edge source="History" target="Parenting &amp; Families">
+  <data key="d0">6</data>
+</edge>
+<edge source="History" target="Gay &amp; Lesbian">
+  <data key="d0">31</data>
+</edge>
+<edge source="History" target="Comics &amp; Graphic Novels">
+  <data key="d0">15</data>
+</edge>
+<edge source="DVD" target="DVD">
+  <data key="d0">39805</data>
+</edge>
+<edge source="DVD" target="Literature &amp; Fiction">
+  <data key="d0">589</data>
+</edge>
+<edge source="DVD" target="Formats">
+  <data key="d0">141</data>
+</edge>
+<edge source="DVD" target="Entertainment">
+  <data key="d0">485</data>
+</edge>
+<edge source="DVD" target="Biographies &amp; Memoirs">
+  <data key="d0">619</data>
+</edge>
+<edge source="DVD" target="Comics &amp; Graphic Novels">
+  <data key="d0">39</data>
+</edge>
+<edge source="DVD" target="Science Fiction &amp; Fantasy">
+  <data key="d0">55</data>
+</edge>
+<edge source="DVD" target="Amazon.com Stores">
+  <data key="d0">123</data>
+</edge>
+<edge source="DVD" target="Health, Mind &amp; Body">
+  <data key="d0">105</data>
+</edge>
+<edge source="DVD" target="Religion &amp; Spirituality">
+  <data key="d0">85</data>
+</edge>
+<edge source="DVD" target="Parenting &amp; Families">
+  <data key="d0">6</data>
+</edge>
+<edge source="DVD" target="Travel">
+  <data key="d0">16</data>
+</edge>
+<edge source="DVD" target="Horror">
+  <data key="d0">12</data>
+</edge>
+<edge source="DVD" target="Science">
+  <data key="d0">32</data>
+</edge>
+<edge source="DVD" target="Mystery &amp; Thrillers">
+  <data key="d0">46</data>
+</edge>
+<edge source="DVD" target="Cooking, Food &amp; Wine">
+  <data key="d0">8</data>
+</edge>
+<edge source="DVD" target="Specialty Stores">
+  <data key="d0">45</data>
+</edge>
+<edge source="DVD" target="Professional &amp; Technical">
+  <data key="d0">9</data>
+</edge>
+<edge source="DVD" target="Reference">
+  <data key="d0">30</data>
+</edge>
+<edge source="DVD" target="Gay &amp; Lesbian">
+  <data key="d0">10</data>
+</edge>
+<edge source="DVD" target="Medicine">
+  <data key="d0">2</data>
+</edge>
+<edge source="DVD" target="Teens">
+  <data key="d0">9</data>
+</edge>
+<edge source="DVD" target="Engineering">
+  <data key="d0">2</data>
+</edge>
+<edge source="DVD" target="Law">
+  <data key="d0">3</data>
+</edge>
+<edge source="DVD" target="Categories">
+  <data key="d0">2</data>
+</edge>
+<edge source="DVD" target="Romance">
+  <data key="d0">3</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Biographies &amp; Memoirs">
+  <data key="d0">5203</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Literature &amp; Fiction">
+  <data key="d0">43133</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Reference">
+  <data key="d0">1752</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Health, Mind &amp; Body">
+  <data key="d0">1002</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Science Fiction &amp; Fantasy">
+  <data key="d0">1232</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Science">
+  <data key="d0">398</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Specialty Stores">
+  <data key="d0">820</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Mystery &amp; Thrillers">
+  <data key="d0">2716</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Formats">
+  <data key="d0">2571</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Religion &amp; Spirituality">
+  <data key="d0">2461</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Romance">
+  <data key="d0">926</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Law">
+  <data key="d0">54</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Cooking, Food &amp; Wine">
+  <data key="d0">116</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Teens">
+  <data key="d0">227</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Entertainment">
+  <data key="d0">1058</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Travel">
+  <data key="d0">488</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Gay &amp; Lesbian">
+  <data key="d0">389</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Parenting &amp; Families">
+  <data key="d0">75</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Horror">
+  <data key="d0">604</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Amazon.com Stores">
+  <data key="d0">79</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Comics &amp; Graphic Novels">
+  <data key="d0">175</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Professional &amp; Technical">
+  <data key="d0">123</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Engineering">
+  <data key="d0">11</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Medicine">
+  <data key="d0">37</data>
+</edge>
+<edge source="Literature &amp; Fiction" target="Our Favorites">
+  <data key="d0">9</data>
+</edge>
+<edge source="Romance" target="Romance">
+  <data key="d0">8266</data>
+</edge>
+<edge source="Romance" target="Formats">
+  <data key="d0">665</data>
+</edge>
+<edge source="Romance" target="Mystery &amp; Thrillers">
+  <data key="d0">408</data>
+</edge>
+<edge source="Romance" target="Specialty Stores">
+  <data key="d0">37</data>
+</edge>
+<edge source="Romance" target="Gay &amp; Lesbian">
+  <data key="d0">10</data>
+</edge>
+<edge source="Romance" target="Religion &amp; Spirituality">
+  <data key="d0">117</data>
+</edge>
+<edge source="Romance" target="Biographies &amp; Memoirs">
+  <data key="d0">18</data>
+</edge>
+<edge source="Romance" target="Science Fiction &amp; Fantasy">
+  <data key="d0">31</data>
+</edge>
+<edge source="Romance" target="Horror">
+  <data key="d0">30</data>
+</edge>
+<edge source="Romance" target="Science">
+  <data key="d0">3</data>
+</edge>
+<edge source="Romance" target="Health, Mind &amp; Body">
+  <data key="d0">12</data>
+</edge>
+<edge source="Romance" target="Entertainment">
+  <data key="d0">1</data>
+</edge>
+<edge source="Romance" target="Teens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Romance" target="Comics &amp; Graphic Novels">
+  <data key="d0">5</data>
+</edge>
+<edge source="Romance" target="Cooking, Food &amp; Wine">
+  <data key="d0">1</data>
+</edge>
+<edge source="Romance" target="Parenting &amp; Families">
+  <data key="d0">1</data>
+</edge>
+<edge source="Romance" target="Law">
+  <data key="d0">2</data>
+</edge>
+<edge source="Romance" target="Medicine">
+  <data key="d0">1</data>
+</edge>
+<edge source="Formats" target="Biographies &amp; Memoirs">
+  <data key="d0">577</data>
+</edge>
+<edge source="Formats" target="Entertainment">
+  <data key="d0">813</data>
+</edge>
+<edge source="Formats" target="Amazon.com Stores">
+  <data key="d0">97</data>
+</edge>
+<edge source="Formats" target="Reference">
+  <data key="d0">1061</data>
+</edge>
+<edge source="Formats" target="Religion &amp; Spirituality">
+  <data key="d0">2291</data>
+</edge>
+<edge source="Formats" target="Mystery &amp; Thrillers">
+  <data key="d0">2083</data>
+</edge>
+<edge source="Formats" target="Comics &amp; Graphic Novels">
+  <data key="d0">13</data>
+</edge>
+<edge source="Formats" target="Teens">
+  <data key="d0">117</data>
+</edge>
+<edge source="Formats" target="Science Fiction &amp; Fantasy">
+  <data key="d0">638</data>
+</edge>
+<edge source="Formats" target="Health, Mind &amp; Body">
+  <data key="d0">1957</data>
+</edge>
+<edge source="Formats" target="Formats">
+  <data key="d0">1412</data>
+</edge>
+<edge source="Formats" target="Our Favorites">
+  <data key="d0">18</data>
+</edge>
+<edge source="Formats" target="Science">
+  <data key="d0">182</data>
+</edge>
+<edge source="Formats" target="Specialty Stores">
+  <data key="d0">131</data>
+</edge>
+<edge source="Formats" target="Parenting &amp; Families">
+  <data key="d0">271</data>
+</edge>
+<edge source="Formats" target="Travel">
+  <data key="d0">95</data>
+</edge>
+<edge source="Formats" target="Horror">
+  <data key="d0">292</data>
+</edge>
+<edge source="Formats" target="Cooking, Food &amp; Wine">
+  <data key="d0">56</data>
+</edge>
+<edge source="Formats" target="Professional &amp; Technical">
+  <data key="d0">32</data>
+</edge>
+<edge source="Formats" target="Law">
+  <data key="d0">29</data>
+</edge>
+<edge source="Formats" target="Medicine">
+  <data key="d0">21</data>
+</edge>
+<edge source="Formats" target="Gay &amp; Lesbian">
+  <data key="d0">4</data>
+</edge>
+<edge source="Formats" target="New Categories">
+  <data key="d0">2</data>
+</edge>
+<edge source="Formats" target="Engineering">
+  <data key="d0">2</data>
+</edge>
+<edge source="Science Fiction &amp; Fantasy" target="Science Fiction &amp; Fantasy">
+  <data key="d0">11638</data>
+</edge>
+<edge source="Science Fiction &amp; Fantasy" target="Biographies &amp; Memoirs">
+  <data key="d0">58</data>
+</edge>
+<edge source="Science Fiction &amp; Fantasy" target="Mystery &amp; Thrillers">
+  <data key="d0">236</data>
+</edge>
+<edge source="Science Fiction &amp; Fantasy" target="Horror">
+  <data key="d0">430</data>
+</edge>
+<edge source="Science Fiction &amp; Fantasy" target="Comics &amp; Graphic Novels">
+  <data key="d0">384</data>
+</edge>
+<edge source="Science Fiction &amp; Fantasy" target="Health, Mind &amp; Body">
+  <data key="d0">16</data>
+</edge>
+<edge source="Science Fiction &amp; Fantasy" target="Teens">
+  <data key="d0">187</data>
+</edge>
+<edge source="Science Fiction &amp; Fantasy" target="Science">
+  <data key="d0">91</data>
+</edge>
+<edge source="Science Fiction &amp; Fantasy" target="Entertainment">
+  <data key="d0">448</data>
+</edge>
+<edge source="Science Fiction &amp; Fantasy" target="Religion &amp; Spirituality">
+  <data key="d0">138</data>
+</edge>
+<edge source="Science Fiction &amp; Fantasy" target="Professional &amp; Technical">
+  <data key="d0">3</data>
+</edge>
+<edge source="Science Fiction &amp; Fantasy" target="Specialty Stores">
+  <data key="d0">24</data>
+</edge>
+<edge source="Science Fiction &amp; Fantasy" target="Reference">
+  <data key="d0">57</data>
+</edge>
+<edge source="Science Fiction &amp; Fantasy" target="Our Favorites">
+  <data key="d0">1</data>
+</edge>
+<edge source="Science Fiction &amp; Fantasy" target="Parenting &amp; Families">
+  <data key="d0">2</data>
+</edge>
+<edge source="Science Fiction &amp; Fantasy" target="Gay &amp; Lesbian">
+  <data key="d0">23</data>
+</edge>
+<edge source="Science Fiction &amp; Fantasy" target="Medicine">
+  <data key="d0">1</data>
+</edge>
+<edge source="Science Fiction &amp; Fantasy" target="Cooking, Food &amp; Wine">
+  <data key="d0">3</data>
+</edge>
+<edge source="Science Fiction &amp; Fantasy" target="Travel">
+  <data key="d0">2</data>
+</edge>
+<edge source="Biographies &amp; Memoirs" target="Biographies &amp; Memoirs">
+  <data key="d0">7354</data>
+</edge>
+<edge source="Biographies &amp; Memoirs" target="Science">
+  <data key="d0">645</data>
+</edge>
+<edge source="Biographies &amp; Memoirs" target="Health, Mind &amp; Body">
+  <data key="d0">1473</data>
+</edge>
+<edge source="Biographies &amp; Memoirs" target="Mystery &amp; Thrillers">
+  <data key="d0">225</data>
+</edge>
+<edge source="Biographies &amp; Memoirs" target="Specialty Stores">
+  <data key="d0">314</data>
+</edge>
+<edge source="Biographies &amp; Memoirs" target="Religion &amp; Spirituality">
+  <data key="d0">2894</data>
+</edge>
+<edge source="Biographies &amp; Memoirs" target="Entertainment">
+  <data key="d0">1735</data>
+</edge>
+<edge source="Biographies &amp; Memoirs" target="Cooking, Food &amp; Wine">
+  <data key="d0">161</data>
+</edge>
+<edge source="Biographies &amp; Memoirs" target="Teens">
+  <data key="d0">69</data>
+</edge>
+<edge source="Biographies &amp; Memoirs" target="Parenting &amp; Families">
+  <data key="d0">134</data>
+</edge>
+<edge source="Biographies &amp; Memoirs" target="Reference">
+  <data key="d0">365</data>
+</edge>
+<edge source="Biographies &amp; Memoirs" target="Travel">
+  <data key="d0">459</data>
+</edge>
+<edge source="Biographies &amp; Memoirs" target="Gay &amp; Lesbian">
+  <data key="d0">117</data>
+</edge>
+<edge source="Biographies &amp; Memoirs" target="Law">
+  <data key="d0">91</data>
+</edge>
+<edge source="Biographies &amp; Memoirs" target="Medicine">
+  <data key="d0">226</data>
+</edge>
+<edge source="Biographies &amp; Memoirs" target="Amazon.com Stores">
+  <data key="d0">176</data>
+</edge>
+<edge source="Biographies &amp; Memoirs" target="Comics &amp; Graphic Novels">
+  <data key="d0">79</data>
+</edge>
+<edge source="Biographies &amp; Memoirs" target="Professional &amp; Technical">
+  <data key="d0">139</data>
+</edge>
+<edge source="Biographies &amp; Memoirs" target="Horror">
+  <data key="d0">24</data>
+</edge>
+<edge source="Biographies &amp; Memoirs" target="Engineering">
+  <data key="d0">3</data>
+</edge>
+<edge source="Biographies &amp; Memoirs" target="By Publisher">
+  <data key="d0">1</data>
+</edge>
+<edge source="Biographies &amp; Memoirs" target="Our Favorites">
+  <data key="d0">1</data>
+</edge>
+<edge source="Reference" target="Reference">
+  <data key="d0">14990</data>
+</edge>
+<edge source="Reference" target="Health, Mind &amp; Body">
+  <data key="d0">955</data>
+</edge>
+<edge source="Reference" target="Science">
+  <data key="d0">798</data>
+</edge>
+<edge source="Reference" target="Religion &amp; Spirituality">
+  <data key="d0">1247</data>
+</edge>
+<edge source="Reference" target="Engineering">
+  <data key="d0">295</data>
+</edge>
+<edge source="Reference" target="Cooking, Food &amp; Wine">
+  <data key="d0">166</data>
+</edge>
+<edge source="Reference" target="Amazon.com Stores">
+  <data key="d0">202</data>
+</edge>
+<edge source="Reference" target="Entertainment">
+  <data key="d0">894</data>
+</edge>
+<edge source="Reference" target="Travel">
+  <data key="d0">649</data>
+</edge>
+<edge source="Reference" target="Specialty Stores">
+  <data key="d0">437</data>
+</edge>
+<edge source="Reference" target="Comics &amp; Graphic Novels">
+  <data key="d0">34</data>
+</edge>
+<edge source="Reference" target="Parenting &amp; Families">
+  <data key="d0">127</data>
+</edge>
+<edge source="Reference" target="Horror">
+  <data key="d0">20</data>
+</edge>
+<edge source="Reference" target="Law">
+  <data key="d0">199</data>
+</edge>
+<edge source="Reference" target="Professional &amp; Technical">
+  <data key="d0">236</data>
+</edge>
+<edge source="Reference" target="Medicine">
+  <data key="d0">404</data>
+</edge>
+<edge source="Reference" target="Mystery &amp; Thrillers">
+  <data key="d0">35</data>
+</edge>
+<edge source="Reference" target="Teens">
+  <data key="d0">22</data>
+</edge>
+<edge source="Reference" target="New Categories">
+  <data key="d0">1</data>
+</edge>
+<edge source="Reference" target="Our Favorites">
+  <data key="d0">7</data>
+</edge>
+<edge source="Reference" target="Gay &amp; Lesbian">
+  <data key="d0">3</data>
+</edge>
+<edge source="Reference" target="By Publisher">
+  <data key="d0">2</data>
+</edge>
+<edge source="Health, Mind &amp; Body" target="Health, Mind &amp; Body">
+  <data key="d0">32514</data>
+</edge>
+<edge source="Health, Mind &amp; Body" target="Parenting &amp; Families">
+  <data key="d0">2549</data>
+</edge>
+<edge source="Health, Mind &amp; Body" target="Religion &amp; Spirituality">
+  <data key="d0">6587</data>
+</edge>
+<edge source="Health, Mind &amp; Body" target="Science">
+  <data key="d0">919</data>
+</edge>
+<edge source="Health, Mind &amp; Body" target="Professional &amp; Technical">
+  <data key="d0">677</data>
+</edge>
+<edge source="Health, Mind &amp; Body" target="Medicine">
+  <data key="d0">2803</data>
+</edge>
+<edge source="Health, Mind &amp; Body" target="Specialty Stores">
+  <data key="d0">1031</data>
+</edge>
+<edge source="Health, Mind &amp; Body" target="Teens">
+  <data key="d0">84</data>
+</edge>
+<edge source="Health, Mind &amp; Body" target="Entertainment">
+  <data key="d0">697</data>
+</edge>
+<edge source="Health, Mind &amp; Body" target="Gay &amp; Lesbian">
+  <data key="d0">108</data>
+</edge>
+<edge source="Health, Mind &amp; Body" target="Cooking, Food &amp; Wine">
+  <data key="d0">1493</data>
+</edge>
+<edge source="Health, Mind &amp; Body" target="Law">
+  <data key="d0">170</data>
+</edge>
+<edge source="Health, Mind &amp; Body" target="Travel">
+  <data key="d0">95</data>
+</edge>
+<edge source="Health, Mind &amp; Body" target="Our Favorites">
+  <data key="d0">59</data>
+</edge>
+<edge source="Health, Mind &amp; Body" target="Amazon.com Stores">
+  <data key="d0">173</data>
+</edge>
+<edge source="Health, Mind &amp; Body" target="Mystery &amp; Thrillers">
+  <data key="d0">44</data>
+</edge>
+<edge source="Health, Mind &amp; Body" target="Engineering">
+  <data key="d0">21</data>
+</edge>
+<edge source="Health, Mind &amp; Body" target="Horror">
+  <data key="d0">3</data>
+</edge>
+<edge source="Health, Mind &amp; Body" target="Comics &amp; Graphic Novels">
+  <data key="d0">17</data>
+</edge>
+<edge source="Entertainment" target="Entertainment">
+  <data key="d0">15201</data>
+</edge>
+<edge source="Entertainment" target="Mystery &amp; Thrillers">
+  <data key="d0">77</data>
+</edge>
+<edge source="Entertainment" target="Religion &amp; Spirituality">
+  <data key="d0">587</data>
+</edge>
+<edge source="Entertainment" target="Law">
+  <data key="d0">36</data>
+</edge>
+<edge source="Entertainment" target="Specialty Stores">
+  <data key="d0">404</data>
+</edge>
+<edge source="Entertainment" target="Comics &amp; Graphic Novels">
+  <data key="d0">360</data>
+</edge>
+<edge source="Entertainment" target="Science">
+  <data key="d0">186</data>
+</edge>
+<edge source="Entertainment" target="Parenting &amp; Families">
+  <data key="d0">149</data>
+</edge>
+<edge source="Entertainment" target="Cooking, Food &amp; Wine">
+  <data key="d0">99</data>
+</edge>
+<edge source="Entertainment" target="Horror">
+  <data key="d0">55</data>
+</edge>
+<edge source="Entertainment" target="Teens">
+  <data key="d0">12</data>
+</edge>
+<edge source="Entertainment" target="Professional &amp; Technical">
+  <data key="d0">108</data>
+</edge>
+<edge source="Entertainment" target="Travel">
+  <data key="d0">118</data>
+</edge>
+<edge source="Entertainment" target="Categories">
+  <data key="d0">1</data>
+</edge>
+<edge source="Entertainment" target="Amazon.com Stores">
+  <data key="d0">48</data>
+</edge>
+<edge source="Entertainment" target="Medicine">
+  <data key="d0">34</data>
+</edge>
+<edge source="Entertainment" target="Engineering">
+  <data key="d0">88</data>
+</edge>
+<edge source="Entertainment" target="Gay &amp; Lesbian">
+  <data key="d0">24</data>
+</edge>
+<edge source="Entertainment" target="Our Favorites">
+  <data key="d0">18</data>
+</edge>
+<edge source="Parenting &amp; Families" target="Teens">
+  <data key="d0">35</data>
+</edge>
+<edge source="Parenting &amp; Families" target="Parenting &amp; Families">
+  <data key="d0">4121</data>
+</edge>
+<edge source="Parenting &amp; Families" target="Gay &amp; Lesbian">
+  <data key="d0">14</data>
+</edge>
+<edge source="Parenting &amp; Families" target="Religion &amp; Spirituality">
+  <data key="d0">705</data>
+</edge>
+<edge source="Parenting &amp; Families" target="Cooking, Food &amp; Wine">
+  <data key="d0">136</data>
+</edge>
+<edge source="Parenting &amp; Families" target="Science">
+  <data key="d0">27</data>
+</edge>
+<edge source="Parenting &amp; Families" target="Specialty Stores">
+  <data key="d0">231</data>
+</edge>
+<edge source="Parenting &amp; Families" target="Professional &amp; Technical">
+  <data key="d0">36</data>
+</edge>
+<edge source="Parenting &amp; Families" target="Medicine">
+  <data key="d0">236</data>
+</edge>
+<edge source="Parenting &amp; Families" target="Travel">
+  <data key="d0">39</data>
+</edge>
+<edge source="Parenting &amp; Families" target="Law">
+  <data key="d0">59</data>
+</edge>
+<edge source="Parenting &amp; Families" target="Our Favorites">
+  <data key="d0">33</data>
+</edge>
+<edge source="Parenting &amp; Families" target="Amazon.com Stores">
+  <data key="d0">9</data>
+</edge>
+<edge source="Parenting &amp; Families" target="Comics &amp; Graphic Novels">
+  <data key="d0">2</data>
+</edge>
+<edge source="Parenting &amp; Families" target="Mystery &amp; Thrillers">
+  <data key="d0">1</data>
+</edge>
+<edge source="Specialty Stores" target="Law">
+  <data key="d0">257</data>
+</edge>
+<edge source="Specialty Stores" target="Science">
+  <data key="d0">1160</data>
+</edge>
+<edge source="Specialty Stores" target="Religion &amp; Spirituality">
+  <data key="d0">1122</data>
+</edge>
+<edge source="Specialty Stores" target="Mystery &amp; Thrillers">
+  <data key="d0">260</data>
+</edge>
+<edge source="Specialty Stores" target="Medicine">
+  <data key="d0">681</data>
+</edge>
+<edge source="Specialty Stores" target="Engineering">
+  <data key="d0">469</data>
+</edge>
+<edge source="Specialty Stores" target="Specialty Stores">
+  <data key="d0">731</data>
+</edge>
+<edge source="Specialty Stores" target="Cooking, Food &amp; Wine">
+  <data key="d0">108</data>
+</edge>
+<edge source="Specialty Stores" target="Professional &amp; Technical">
+  <data key="d0">347</data>
+</edge>
+<edge source="Specialty Stores" target="Amazon.com Stores">
+  <data key="d0">76</data>
+</edge>
+<edge source="Specialty Stores" target="Travel">
+  <data key="d0">50</data>
+</edge>
+<edge source="Specialty Stores" target="Our Favorites">
+  <data key="d0">28</data>
+</edge>
+<edge source="Specialty Stores" target="By Publisher">
+  <data key="d0">20</data>
+</edge>
+<edge source="Specialty Stores" target="Gay &amp; Lesbian">
+  <data key="d0">8</data>
+</edge>
+<edge source="Specialty Stores" target="Teens">
+  <data key="d0">51</data>
+</edge>
+<edge source="Specialty Stores" target="Comics &amp; Graphic Novels">
+  <data key="d0">25</data>
+</edge>
+<edge source="Specialty Stores" target="Horror">
+  <data key="d0">16</data>
+</edge>
+<edge source="Specialty Stores" target="New Categories">
+  <data key="d0">1</data>
+</edge>
+<edge source="Specialty Stores" target="Age Ranges">
+  <data key="d0">1</data>
+</edge>
+<edge source="Religion &amp; Spirituality" target="Religion &amp; Spirituality">
+  <data key="d0">51570</data>
+</edge>
+<edge source="Religion &amp; Spirituality" target="Travel">
+  <data key="d0">157</data>
+</edge>
+<edge source="Religion &amp; Spirituality" target="Medicine">
+  <data key="d0">106</data>
+</edge>
+<edge source="Religion &amp; Spirituality" target="Professional &amp; Technical">
+  <data key="d0">150</data>
+</edge>
+<edge source="Religion &amp; Spirituality" target="Science">
+  <data key="d0">709</data>
+</edge>
+<edge source="Religion &amp; Spirituality" target="Amazon.com Stores">
+  <data key="d0">51</data>
+</edge>
+<edge source="Religion &amp; Spirituality" target="Cooking, Food &amp; Wine">
+  <data key="d0">114</data>
+</edge>
+<edge source="Religion &amp; Spirituality" target="Law">
+  <data key="d0">77</data>
+</edge>
+<edge source="Religion &amp; Spirituality" target="Our Favorites">
+  <data key="d0">26</data>
+</edge>
+<edge source="Religion &amp; Spirituality" target="Mystery &amp; Thrillers">
+  <data key="d0">182</data>
+</edge>
+<edge source="Religion &amp; Spirituality" target="Horror">
+  <data key="d0">51</data>
+</edge>
+<edge source="Religion &amp; Spirituality" target="Gay &amp; Lesbian">
+  <data key="d0">91</data>
+</edge>
+<edge source="Religion &amp; Spirituality" target="Teens">
+  <data key="d0">69</data>
+</edge>
+<edge source="Religion &amp; Spirituality" target="Comics &amp; Graphic Novels">
+  <data key="d0">33</data>
+</edge>
+<edge source="Religion &amp; Spirituality" target="Engineering">
+  <data key="d0">4</data>
+</edge>
+<edge source="Amazon.com Stores" target="Amazon.com Stores">
+  <data key="d0">4311</data>
+</edge>
+<edge source="Amazon.com Stores" target="Travel">
+  <data key="d0">2004</data>
+</edge>
+<edge source="Amazon.com Stores" target="Science">
+  <data key="d0">105</data>
+</edge>
+<edge source="Amazon.com Stores" target="Cooking, Food &amp; Wine">
+  <data key="d0">33</data>
+</edge>
+<edge source="Amazon.com Stores" target="Engineering">
+  <data key="d0">22</data>
+</edge>
+<edge source="Amazon.com Stores" target="Medicine">
+  <data key="d0">4</data>
+</edge>
+<edge source="Amazon.com Stores" target="Professional &amp; Technical">
+  <data key="d0">54</data>
+</edge>
+<edge source="Amazon.com Stores" target="Law">
+  <data key="d0">38</data>
+</edge>
+<edge source="Amazon.com Stores" target="Gay &amp; Lesbian">
+  <data key="d0">2</data>
+</edge>
+<edge source="Amazon.com Stores" target="Mystery &amp; Thrillers">
+  <data key="d0">5</data>
+</edge>
+<edge source="Amazon.com Stores" target="By Publisher">
+  <data key="d0">3</data>
+</edge>
+<edge source="Amazon.com Stores" target="Comics &amp; Graphic Novels">
+  <data key="d0">1</data>
+</edge>
+<edge source="Science" target="Cooking, Food &amp; Wine">
+  <data key="d0">137</data>
+</edge>
+<edge source="Science" target="Science">
+  <data key="d0">12974</data>
+</edge>
+<edge source="Science" target="Medicine">
+  <data key="d0">528</data>
+</edge>
+<edge source="Science" target="Professional &amp; Technical">
+  <data key="d0">1132</data>
+</edge>
+<edge source="Science" target="Engineering">
+  <data key="d0">1477</data>
+</edge>
+<edge source="Science" target="Travel">
+  <data key="d0">311</data>
+</edge>
+<edge source="Science" target="Horror">
+  <data key="d0">5</data>
+</edge>
+<edge source="Science" target="Mystery &amp; Thrillers">
+  <data key="d0">26</data>
+</edge>
+<edge source="Science" target="Teens">
+  <data key="d0">75</data>
+</edge>
+<edge source="Science" target="New Categories">
+  <data key="d0">1</data>
+</edge>
+<edge source="Science" target="Gay &amp; Lesbian">
+  <data key="d0">9</data>
+</edge>
+<edge source="Science" target="Law">
+  <data key="d0">29</data>
+</edge>
+<edge source="Science" target="Comics &amp; Graphic Novels">
+  <data key="d0">3</data>
+</edge>
+<edge source="Science" target="Categories">
+  <data key="d0">1</data>
+</edge>
+<edge source="Science" target="By Publisher">
+  <data key="d0">2</data>
+</edge>
+<edge source="Cooking, Food &amp; Wine" target="Cooking, Food &amp; Wine">
+  <data key="d0">10919</data>
+</edge>
+<edge source="Cooking, Food &amp; Wine" target="Professional &amp; Technical">
+  <data key="d0">38</data>
+</edge>
+<edge source="Cooking, Food &amp; Wine" target="Travel">
+  <data key="d0">222</data>
+</edge>
+<edge source="Cooking, Food &amp; Wine" target="Our Favorites">
+  <data key="d0">13</data>
+</edge>
+<edge source="Cooking, Food &amp; Wine" target="Medicine">
+  <data key="d0">38</data>
+</edge>
+<edge source="Cooking, Food &amp; Wine" target="Engineering">
+  <data key="d0">8</data>
+</edge>
+<edge source="Cooking, Food &amp; Wine" target="Gay &amp; Lesbian">
+  <data key="d0">3</data>
+</edge>
+<edge source="Cooking, Food &amp; Wine" target="Mystery &amp; Thrillers">
+  <data key="d0">20</data>
+</edge>
+<edge source="Cooking, Food &amp; Wine" target="Teens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cooking, Food &amp; Wine" target="Comics &amp; Graphic Novels">
+  <data key="d0">5</data>
+</edge>
+<edge source="Professional &amp; Technical" target="Medicine">
+  <data key="d0">1818</data>
+</edge>
+<edge source="Professional &amp; Technical" target="Law">
+  <data key="d0">135</data>
+</edge>
+<edge source="Professional &amp; Technical" target="Professional &amp; Technical">
+  <data key="d0">5245</data>
+</edge>
+<edge source="Professional &amp; Technical" target="Engineering">
+  <data key="d0">226</data>
+</edge>
+<edge source="Professional &amp; Technical" target="Travel">
+  <data key="d0">159</data>
+</edge>
+<edge source="Professional &amp; Technical" target="By Publisher">
+  <data key="d0">2</data>
+</edge>
+<edge source="Professional &amp; Technical" target="Comics &amp; Graphic Novels">
+  <data key="d0">3</data>
+</edge>
+<edge source="Professional &amp; Technical" target="Teens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Professional &amp; Technical" target="Mystery &amp; Thrillers">
+  <data key="d0">14</data>
+</edge>
+<edge source="Professional &amp; Technical" target="Gay &amp; Lesbian">
+  <data key="d0">2</data>
+</edge>
+<edge source="Professional &amp; Technical" target="Our Favorites">
+  <data key="d0">1</data>
+</edge>
+<edge source="Comics &amp; Graphic Novels" target="Comics &amp; Graphic Novels">
+  <data key="d0">4074</data>
+</edge>
+<edge source="Comics &amp; Graphic Novels" target="Teens">
+  <data key="d0">25</data>
+</edge>
+<edge source="Comics &amp; Graphic Novels" target="Mystery &amp; Thrillers">
+  <data key="d0">23</data>
+</edge>
+<edge source="Comics &amp; Graphic Novels" target="Horror">
+  <data key="d0">41</data>
+</edge>
+<edge source="Comics &amp; Graphic Novels" target="Gay &amp; Lesbian">
+  <data key="d0">7</data>
+</edge>
+<edge source="Comics &amp; Graphic Novels" target="Travel">
+  <data key="d0">8</data>
+</edge>
+<edge source="Comics &amp; Graphic Novels" target="Our Favorites">
+  <data key="d0">3</data>
+</edge>
+<edge source="Comics &amp; Graphic Novels" target="Medicine">
+  <data key="d0">1</data>
+</edge>
+<edge source="Teens" target="Teens">
+  <data key="d0">1364</data>
+</edge>
+<edge source="Teens" target="Horror">
+  <data key="d0">77</data>
+</edge>
+<edge source="Teens" target="Travel">
+  <data key="d0">4</data>
+</edge>
+<edge source="Teens" target="Gay &amp; Lesbian">
+  <data key="d0">11</data>
+</edge>
+<edge source="Teens" target="Mystery &amp; Thrillers">
+  <data key="d0">24</data>
+</edge>
+<edge source="Teens" target="Medicine">
+  <data key="d0">1</data>
+</edge>
+<edge source="Teens" target="Our Favorites">
+  <data key="d0">5</data>
+</edge>
+<edge source="Law" target="Medicine">
+  <data key="d0">33</data>
+</edge>
+<edge source="Law" target="Law">
+  <data key="d0">1615</data>
+</edge>
+<edge source="Law" target="Engineering">
+  <data key="d0">18</data>
+</edge>
+<edge source="Law" target="Mystery &amp; Thrillers">
+  <data key="d0">8</data>
+</edge>
+<edge source="Law" target="Gay &amp; Lesbian">
+  <data key="d0">8</data>
+</edge>
+<edge source="Law" target="Travel">
+  <data key="d0">1</data>
+</edge>
+<edge source="Travel" target="Travel">
+  <data key="d0">5178</data>
+</edge>
+<edge source="Travel" target="Mystery &amp; Thrillers">
+  <data key="d0">21</data>
+</edge>
+<edge source="Travel" target="Engineering">
+  <data key="d0">6</data>
+</edge>
+<edge source="Travel" target="Our Favorites">
+  <data key="d0">5</data>
+</edge>
+<edge source="Travel" target="Horror">
+  <data key="d0">4</data>
+</edge>
+<edge source="Travel" target="Gay &amp; Lesbian">
+  <data key="d0">11</data>
+</edge>
+<edge source="Travel" target="Categories">
+  <data key="d0">1</data>
+</edge>
+<edge source="Travel" target="Medicine">
+  <data key="d0">1</data>
+</edge>
+<edge source="Engineering" target="Engineering">
+  <data key="d0">3906</data>
+</edge>
+<edge source="Engineering" target="Medicine">
+  <data key="d0">40</data>
+</edge>
+<edge source="Engineering" target="By Publisher">
+  <data key="d0">38</data>
+</edge>
+<edge source="Medicine" target="Medicine">
+  <data key="d0">9019</data>
+</edge>
+<edge source="Medicine" target="Mystery &amp; Thrillers">
+  <data key="d0">11</data>
+</edge>
+<edge source="Medicine" target="Gay &amp; Lesbian">
+  <data key="d0">5</data>
+</edge>
+<edge source="Mystery &amp; Thrillers" target="Mystery &amp; Thrillers">
+  <data key="d0">14545</data>
+</edge>
+<edge source="Mystery &amp; Thrillers" target="Horror">
+  <data key="d0">217</data>
+</edge>
+<edge source="Mystery &amp; Thrillers" target="Gay &amp; Lesbian">
+  <data key="d0">49</data>
+</edge>
+<edge source="Mystery &amp; Thrillers" target="Our Favorites">
+  <data key="d0">1</data>
+</edge>
+<edge source="Horror" target="Horror">
+  <data key="d0">2152</data>
+</edge>
+<edge source="Horror" target="Gay &amp; Lesbian">
+  <data key="d0">9</data>
+</edge>
+<edge source="Gay &amp; Lesbian" target="Gay &amp; Lesbian">
+  <data key="d0">474</data>
+</edge>
+<edge source="By Publisher" target="By Publisher">
+  <data key="d0">48</data>
+</edge>
+<edge source="Our Favorites" target="Our Favorites">
+  <data key="d0">42</data>
+</edge>
+<edge source="Our Favorites" target="New Categories">
+  <data key="d0">7</data>
+</edge>
+</graph></graphml>
